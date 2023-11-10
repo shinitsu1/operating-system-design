@@ -1,0 +1,271 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    align-items: center;
+}
+
+.logo-container {
+    flex: 1;
+}
+
+.logo-container img {
+    height: 70px;
+    width: 70px;
+}
+
+.logo-container h3 {
+    margin-top: 21px;
+	color: black;
+	margin-left: 1px;
+}
+
+
+.logo-container,.nav-links {
+    display: flex;
+}
+
+
+
+nav {
+    flex: 2;
+}
+
+.nav-links {
+    justify-content: space-around;
+    list-style: none;
+}
+
+.nav-links li a:hover{
+	background-color: black;
+    color:white;
+}
+.nav-link {
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    padding: 10px 30px;
+    border-bottom: 1px solid black;
+}
+
+.presentation {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    align-items: center;
+    min-height: 80vh;
+}
+
+.introduction {
+    flex: 1;
+    
+}
+
+.cover {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+.cover img {
+    height: 60vh;
+}
+.intro-text h1 {
+    font-size: 44px;
+    font-weight: 500;
+}
+
+.btn {
+    display: flex;
+    list-style: none;
+    margin: 30px 0px 0px 0px;
+    
+}
+
+.btn-1 {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;   
+    font-weight: 600;
+    padding: 10px 30px;
+    background: #ff0057;
+    
+}
+
+.btn li a:hover {
+    background-color: white;
+    color:black;
+    border: 2px solid black;
+}
+
+.btn-2 {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;   
+    font-weight: 600;
+    padding: 10px 30px;
+    background: #ff0057;
+    margin: 0px 0px 0px 30px;
+    
+}
+
+.footer {
+    display: flex;
+    margin: auto;
+    width: 80%;
+}
+.history {
+    flex: 1;
+    list-style: none;
+}
+
+.his2ry {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;   
+    font-weight: 600;
+    padding: 10px 30px;
+    background: #ff0057;
+}
+
+.history li a:hover {
+    background-color: white;
+    color:black;
+    border: 2px solid black;
+}
+.contacts {
+    display: flex;
+    flex: 1;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.contact {
+    text-decoration: none;
+    color: black;
+}
+
+.content-1 {
+    margin: auto;
+    width: 80%;
+    
+}
+
+.past {
+    width: 80%;
+    margin: auto;
+}
+
+.content-1 {
+    margin-top: 130px;
+}
+
+.contentcontainer1 {
+    display: flex;
+}
+
+.okicon {
+    flex: 1;
+    margin-top: 60px;
+    
+}
+
+.gitgud {
+    flex: 2;
+    margin-left: 50px;
+}
+
+.gud {
+    line-height: 2;
+}
+.gitgud h1 {
+    font-size: 50px;
+    
+}
+.okicon img {
+    height: 300px;
+    weight: 300px;
+}
+
+.contentcontainer2 {
+    display: flex;
+    margin-top: 150px;
+}
+
+.okicon2 img {
+    height: 300px;
+    weight: 300px;
+}
+
+.gitbad {
+    margin-right: 50px;
+    
+}
+.gitbad h1 {
+    font-size: 50px;
+}
+
+.bad {
+    line-height: 2;
+}
+
+.story img {
+    height: 300px;
+    weight: 300px;
+    margin-top: 50px;
+}
+
+.container100 {
+    margin-top: 130px;
+    display: flex;
+}
+
+.past-1 {
+    margin-left: 50px;
+}
+
+.past-1 h1 {
+    font-size: 50px;
+}
+
+.past-2 {
+    line-height: 2;
+    
+}
+
+footer {
+    min-height: 13vh;
+    background: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.gotopbtn {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background: #ff0057;
+    bottom: 40px;
+    right: 50px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    line-height: 50px;
+    font-size: 22px;
+}
+
+html {
+    scroll-behavior: smooth;
+}

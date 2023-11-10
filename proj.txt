@@ -1,0 +1,60 @@
+KARL LEWIS DOCTOLERO 
+FINAL PROJECT PROPOSAL:
+
+1. TITLE: COMPUTER OPERATING SYSTEM
+
+2. DESCRIPTION: The website is all about  the history, function, and Types of OS, AND ALSO KNOWING THE ADVANTAGE AND DISADVANTAGE OF OS
+
+3. CONTENT:
+
+
+Submitted by: Nimwhel Salonga & Karl Lewis Doctolero
+You sent May 10 at 11:38 AM
+Tama na pala yon content
+You sent May 10 at 11:38 AM
+Parang kay sir
+You sent May 10 at 11:38 AM
+Noice
+You sent May 10 at 11:39 AM
+FINAL PROJECT PROPOSAL:
+
+1. TITLE: COMPUTER OPERATING SYSTEM
+
+2. DESCRIPTION: The website is all about  the history, function, and Types of OS, AND ALSO KNOWING THE ADVANTAGE AND DISADVANTAGE OF OS
+
+3. CONTENT:
+
+ADVANTAGE AND DISADVANTAGE OF OS :
+1Advantage of using Operating System
+2.Disadvantages of using Operating System
+
+TYPES OF OS :
+1.Batch Operating System
+2.Multitasking/Time Sharing OS
+3.Multiprocessing OS
+4.Real Time OS
+5.Distributed OS
+6.Network OS
+7. Mobile OS
+
+FUNCTION OF OS:
+1.Process Management
+2. Memory Management
+3.File Management 
+4.I/O System Management
+5. Device Management
+6. Secondary-Storage Management
+7.Security
+8.Command interpretation
+9.Networking
+10.Job accounting
+11.Communication management
+
+HISTORY OF OS:
+1. The First Generation
+2. The Second Generation 
+3. The Third Generation
+4. The Fourth Generation
+
+
+Submitted by: Nimwhel Salonga & Karl Lewis Doctolero
